@@ -1,7 +1,6 @@
 #include "defs.h"
 #include "string.h"
 #include "mm.h"
-
 #include "printk.h"
 
 extern char _ekernel[];
